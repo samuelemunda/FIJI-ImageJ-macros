@@ -1,9 +1,29 @@
 # FIJI/ImageJ macros
 
-Macros that I made for FIJI/ImageJ to elaborate or analyze images. It's not rocket science, just a way to save the workflow and keep track of some steps. (WIP)
+Macros for FIJI/ImageJ to process and analyze images. Not rocket science, just a way to keep track of workflows and automate repetitive tasks. (WIP)
 
-## Instructions
+## Installation
 
-These macros are intended for storing certain workflows. I don't usually spend much time on complete automation. The code is divided into steps. Select groups of code and press `Shift+Cmd+R` or Run > Run Selected Code.
+Copy the `.ijm` files to your FIJI macros folder (`Plugins > Macros > Install...`) or simply open by drag-and drop for one-time usage.
 
-> Shortcuts are usually for Mac orLinux. Check the corresponding one for your system.
+## Usage
+
+These macros are designed to be run step-by-step rather than fully automated:
+
+1. Open a macro in FIJI's macro editor
+
+2. Select the code block you want to run
+
+3. Press `Shift+Cmd+R` or use `Run > Run Selected Code`
+
+Main info and instructions are included as comments inside the code of each file.
+
+> **Note:** Shortcuts shown are for Mac or Linux. Check the corresponding ones for your system.
+
+## Macros
+
+Insert a list here?
+
+## Contributing
+
+Suggestions and improvements are welcome!
