@@ -1,4 +1,4 @@
-// Macro for z-stack confocal images
+// Macro for z-stack confocal images in .nd2 format
 // Select groups of code and press [Shift-Cmd-R] or "Run -> Run Selected Code"
 
 // 1. open the image by drag-and-drop
