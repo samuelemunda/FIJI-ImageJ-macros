@@ -1,6 +1,6 @@
-// Create ROIs for nuclear envelope and nucleoplasma from whole nuclear ROI
+// Create ROIs for nuclear envelope and nucleoplasm from whole nuclear ROIs
 // This script starts from already exisiting ROIs. Follow your preferred method to generate them.
-// Thank to CP for the help :)
+// Thanks to CP for the help :)
 
 nROI=roiManager("count");
 for(i=0;i<=nROI-1; i++)
